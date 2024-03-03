@@ -13,7 +13,7 @@ notebooks/local_notebooks/
 notebooks/.env
 pages/research/local_research/
 .DS_Store
-.vscode
+.vscode/*
 
 # app
 .next
@@ -22,3 +22,5 @@ node_modules
 # python
 # Exclude .venv folder
 /.venv
+!.vscode/launch.json
+
