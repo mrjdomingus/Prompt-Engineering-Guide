@@ -18,3 +18,7 @@ pages/research/local_research/
 # app
 .next
 node_modules
+
+# python
+# Exclude .venv folder
+/.venv
